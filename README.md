@@ -15,6 +15,9 @@
    4. [**Temperatures**](https://www.codingame.com/training/easy/temperatures)  
       
       Solution: [C++](https://github.com/1i10/CodinGame/blob/main/Easy/Temperatures.cpp)
+	5. [**The Descent**](https://www.codingame.com/training/easy/the-descent)  
+      
+      Solution: [C++](https://github.com/1i10/CodinGame/blob/main/Easy/TheDescent.cpp)
 </details>
 
 <details><summary>Medium</summary>
