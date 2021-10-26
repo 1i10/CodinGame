@@ -21,7 +21,7 @@
    6. [**Rectangle Partition**](https://www.codingame.com/training/easy/rectangle-partition)  
       
       Solution: [C++](https://github.com/1i10/CodinGame/blob/main/Easy/RectanglePartition.cpp)  
-      *P.S. is correct, but need to optimize runtime*
+      
 </details>
 
 <details><summary>Medium</summary>
