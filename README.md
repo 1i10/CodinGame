@@ -24,7 +24,11 @@
       
 </details>
 
-<details><summary>Medium</summary>
+<details><summary>Medium</summary>  
+  
+  1. [**There Is No Spoon - Episode 1**](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1)
+       
+      Solution: [C++](https://github.com/1i10/CodinGame/blob/main/Medium/ThereIsNoSpoonEp1.cpp)
    
 </details>
 
