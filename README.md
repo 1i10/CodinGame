@@ -21,6 +21,9 @@
    6. [**Rectangle Partition**](https://www.codingame.com/training/easy/rectangle-partition)  
       
       Solution: [C++](https://github.com/1i10/CodinGame/blob/main/Easy/RectanglePartition.cpp)  
+   7. [**Reverse Minesweeper**](https://www.codingame.com/training/easy/reverse-minesweeper)  
+      
+      Solution: [C++](https://github.com/1i10/CodinGame/blob/main/Easy/ReverseMinesweeper.cpp), [Best C++](https://github.com/1i10/CodinGame/blob/main/Easy/ReverseMinesweeperBestSolution.cpp)   
       
 </details>
 
