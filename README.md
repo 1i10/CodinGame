@@ -31,7 +31,11 @@
   
   1. [**There Is No Spoon - Episode 1**](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1)
        
-      Solution: [C++](https://github.com/1i10/CodinGame/blob/main/Medium/ThereIsNoSpoonEp1.cpp)
+      Solution: [C++](https://github.com/1i10/CodinGame/blob/main/Medium/ThereIsNoSpoonEp1.cpp)  
+   
+  2. [**The Urinal Problem**](https://www.codingame.com/training/medium/the-urinal-problem)
+       
+      Solution: [C++](https://github.com/1i10/CodinGame/blob/main/Medium/TheUrinalProblem.cpp)
    
 </details>
 
