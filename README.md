@@ -36,6 +36,10 @@
   2. [**The Urinal Problem**](https://www.codingame.com/training/medium/the-urinal-problem)
        
       Solution: [C++](https://github.com/1i10/CodinGame/blob/main/Medium/TheUrinalProblem.cpp)
+         
+  3. [**Shadows Of The Knight - Episode 1**](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1)
+       
+      Solution: [C++](https://github.com/1i10/CodinGame/blob/main/Medium/ShadowsOfTheKnightEp1.cpp)
    
 </details>
 
